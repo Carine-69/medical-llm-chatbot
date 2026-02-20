@@ -1,0 +1,7 @@
+mistral_medical_model/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.safetensors
+.gradio/
