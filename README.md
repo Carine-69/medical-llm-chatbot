@@ -153,4 +153,4 @@ MedBot is for **educational purposes only**. It is not a substitute for professi
 
 ##  Author
 
-**Carine Umugabekazi** — ALU Machine Learning Techniques, January 2026
+**Carine Umugabekazi** — ALU Machine Learning Techniques I, February 2026
