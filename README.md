@@ -116,6 +116,9 @@ Loss dropped from **1.74 → 0.54** — a clear improvement demonstrating succes
 **Q: What is the mechanism of action of aspirin?**
 > Aspirin works by inhibiting cyclooxygenase (COX) enzymes, which are responsible for producing prostaglandins — chemicals that cause inflammation, pain, and fever.
 
+
+
+This test can be found in model/ipynb_checkpoints/retrainchepoint.ipynb, where I tested the 2000 checkpoints model I had trained at that time.
 ---
 
 ##  How to Run
